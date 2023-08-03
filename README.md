@@ -1,2 +1,2 @@
-# movie_recommender_system_tmdb
-Mohith's Movie Reccomendation System 
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
